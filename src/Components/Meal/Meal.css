@@ -1,0 +1,13 @@
+.meal-body{
+    text-align: center;
+}
+.meal{
+    color: green;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.card{
+    width: 22rem;
+    height: 500px;
+}
